@@ -20,7 +20,8 @@ I'm currently focusing on:
 Feel free to reach out to me:
 - **GitHub:** [@Rghvs03](https://github.com/Rghvs03)
 - **Email:**  [raghavsh437@gmail.com](mailto:raghavsh437@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/raghav-sharma-tech)
+- **LinkedIn:** [Your Name](https://www.linkedin.com/in/raghav-sharma-tech/)
+
 - **Instagram:**[My Instagram Handle](https://www.instagram.com/raghav_sharma._03?igsh=YW1oNnN6NW0yMXpu)
 
               
