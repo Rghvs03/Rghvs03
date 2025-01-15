@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+My+Name+is+Raghav+!+(%40Rghvs03);%F0%9F%92%A1+Learning.+Coding.+Growing.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+My+Name+is+Raghav+!+(%40Rghvs03);%F0%9F%92%A1+Learning.+Coding.+Growing.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## About Me
  🎓I'm currently a student at Oriental Institute of Science and Technology {OIST},Bhopal,with a passion for technology and learning. I enjoy exploring various fields like programming, web development,AI and data science.
