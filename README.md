@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Raghav+Sharma+(%40Rghvs03))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+My+Name+is+Raghav+!+(%40Rghvs03);%F0%9F%92%A1+Learning.+Coding.+Growing.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## About Me
-🌱 I'm currently a student at Oriental Institute of Science and Technology {OIST},Bhopal,with a passion for technology and learning. I enjoy exploring various fields like programming, web development,AI and data science.
+ 🎓I'm currently a student at Oriental Institute of Science and Technology {OIST},Bhopal,with a passion for technology and learning. I enjoy exploring various fields like programming, web development,AI and data science.
 
-## 🛠️ Skills
+## 💼 Skills
 - **Self-development**
-- **Programming Languages:** C, Java ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java), Python 
+- **Programming Languages:** C, Java 
 
 - **Web Development:** HTML, CSS
 - **Tools:** Git, VS Code
@@ -19,6 +19,8 @@ I'm currently focusing on:
 ## 📬 Let's Connect!
 Feel free to reach out to me:
 - **GitHub:** [@Rghvs03](https://github.com/Rghvs03)
-- **LinkedIn:** [Raghav Sharma](https://www.linkedin.com/in/raghav-sharma/)
+- **Email:**  [raghavsh437@gmail.com](mailto:raghavsh437@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/raghav-sharma-tech)
+- **Instagram:**[My Instagram Handle](https://www.instagram.com/raghav_sharma._03?igsh=YW1oNnN6NW0yMXpu)
 
               
