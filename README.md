@@ -5,10 +5,10 @@
 
 ## 💼 Skills
 - **Self-development**
-- **Programming Languages:** C, Java 
+- **Programming Languages:** Java, JavaScript.
 
-- **Web Development:** HTML, CSS
-- **Tools:** Git, VS Code
+- **Web Development:** HTML5, CSS3, TailwindCSS, SCSS, JavaScript, React.
+- **Tools:** Git and Github, VS Code
 
 ## 🚀 Current Focus
 I'm currently focusing on:
