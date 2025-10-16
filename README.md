@@ -16,8 +16,6 @@ I'm currently focusing on:
 - Exploring **MERN stack** for full-stack development projects.
 - Learning about **AI & Cloud Computing** for future innovation.
 
-  [![An image of @rghvs03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvs03)](https://holopin.io/@rghvs03)
-
 ## 📬 Let's Connect!
 Feel free to reach out to me:
 - **GitHub:** [@Rghvs03](https://github.com/Rghvs03)
