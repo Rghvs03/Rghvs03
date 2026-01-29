@@ -4,16 +4,15 @@
  🎓I'm currently a student at Oriental Institute of Science and Technology {OIST},Bhopal,with a passion for technology and learning. I enjoy exploring various fields like Programming, Web development,AI and Data science.
 
 ## 💼 Skills
-- **Self-development**
-- **Programming Languages:** Java, JavaScript.
+- **Programming Languages:** JavaScript.
 
-- **Web Development:** HTML5, CSS3, TailwindCSS, SCSS, JavaScript, React.
-- **Tools:** Git and Github, VS Code
+- **Web Development:** HTML5, CSS3, TailwindCSS, SCSS, JavaScript, React, Redux, TanStack, Node.js, Express.js, Mongoose, MongoDB.
+- **Tools:** Git and Github, VS Code, PowerBI.
 
 ## 🚀 Current Focus
 I'm currently focusing on:
-- Building expertise in **Java + DSA** for interview preparation.
-- Exploring **MERN stack** for full-stack development projects.
+- Exploring MERN STACK, Data Analytics and GenAI.
+- Building expertise in **MERN stack** for full-stack development projects.
 - Learning about **AI & Cloud Computing** for future innovation.
 
 ## 📬 Let's Connect!
